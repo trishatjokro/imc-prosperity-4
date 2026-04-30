@@ -14,8 +14,6 @@ import csv
 from collections import defaultdict
 from pathlib import Path
 
-DATA = Path("/Users/trishatjokrosapoetro/Documents/Projects/IMC Prosperity 4/Round 5/ROUND_5")
-
 
 def load_mids():
     mids = defaultdict(dict)
