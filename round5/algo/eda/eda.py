@@ -4,10 +4,6 @@ import numpy as np
 import matplotlib.pyplot as plt
 from pathlib import Path
 
-ROOT  = Path('/Users/trishatjokrosapoetro/Documents/Projects/IMC Prosperity 4/Round 5/ROUND_5')
-OUT   = Path('/Users/trishatjokrosapoetro/Documents/Projects/IMC Prosperity 4/Round 5/algo/eda_out')
-OUT.mkdir(exist_ok=True)
-
 # ─────────────────────────────────────────────────────────────
 # Load data
 # ─────────────────────────────────────────────────────────────
