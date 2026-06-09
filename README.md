@@ -1,5 +1,5 @@
 # IMC Prosperity 4
-IMC Prosperity is an annual global trading competition where players compete in algorithmic and manual challenges. 
+IMC Prosperity is an annual global 16-day trading competition where players compete in algorithmic and manual challenges. 
 
 This repository contains TBN's IMC Prosperity 4 strategies per round.
 
